@@ -1,2 +1,0 @@
-# Nexon-Fixed
-Nexon Sistem
